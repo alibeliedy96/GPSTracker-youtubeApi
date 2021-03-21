@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GPSTracker</string>
+    <string name="google_maps_key" translatable="false">
+        AIzaSyCNM5eXXhx6luq3gZAT_eNT6yVfZwssneY
+    </string>
+    <string name="title_activity_maps">Map</string>
+    <string name="warning">warning</string>
+    <string name="location_explanation">please allow app to use your location to show nearest firends</string>
+    <string name="ok">ok</string>
+    <string name="go_to_map_activity">go to map activity</string>
+</resources>
